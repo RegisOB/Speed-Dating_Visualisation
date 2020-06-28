@@ -1,2 +1,2 @@
 # Speed-Dating_Visualisation
-Produire les visualisations sur des données *Speed dating* avec python et seaborn
+Produire les visualisations sur des données **Speed dating** avec python et seaborn
